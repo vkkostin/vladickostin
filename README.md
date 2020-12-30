@@ -1,4 +1,8 @@
-# vladickostin
+# Vladic Kostin
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab31c6b7-2154-4d3c-b407-f7600a05b2f2/deploy-status)](https://app.netlify.com/sites/vladickostin/deploys)
+
+Work-in-progress site; resume, possibly a blog.
 
 ## Project setup
 ```
