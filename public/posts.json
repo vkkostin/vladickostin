@@ -1,0 +1,14 @@
+[
+  {
+    "title":"Hello World",
+    "description": "This is the first blog post."
+  },
+  {
+    "title":"The Lord of the Rings",
+    "description": "Talks about The Lord of the Rings."
+  },
+  {
+    "title":"Back to the Future",
+    "description": "Great Scott!"
+  }
+]
