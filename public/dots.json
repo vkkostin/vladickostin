@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Yoda",
+    "data.occupation": "Jedi",
+    "data.status": "dead"
+  },
+  {
+    "Name": "Harry Potter",
+    "data.occupation": "Wizard",
+    "data.status": "alive"
+  }
+]
