@@ -4,16 +4,16 @@
       "id": 1,
       "fields": {
         "Name": "Yoda",
-        "data.occupation": "Jedi",
-        "data.occupation.rank": "Master"
+        "dataOccupation": "Jedi",
+        "dataOccupationRank": "Master"
       }
     },
     {
       "id": 2,
       "fields": {
         "Name": "Harry Potter",
-        "data.occupation": "Wizard",
-        "data.occupation.job": "Auror"
+        "dataOccupation": "Wizard",
+        "dataOccupationJob": "Auror"
       }
     }
   ]
